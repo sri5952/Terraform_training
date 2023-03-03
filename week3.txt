@@ -1,0 +1,5 @@
+1. Introduction to Modules & their usage
+2. How to use local modules & aws modules (usage & pointing out corect source)
+3. How to run .tfvars file.
+4. terraform Directory structure
+5. Integration of Terraform with GitHub ( CI/CD Pipeline) -- Ongoing
