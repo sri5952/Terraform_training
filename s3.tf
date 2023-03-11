@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "b" {
-  bucket = "dhdhdfhdbhd"
+  bucket = "dhd"
 
   tags = {
     Name        = "My_bucket"
